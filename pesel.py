@@ -4,4 +4,3 @@ if suma%10 == int(PESEL[len(PESEL)-1]):
   print("1")
 else:
   print("0")
-asdsadas
